@@ -6,6 +6,9 @@
   "repository": {
     "type": "git"
   },
+  "scripts": {
+    "start": "node server/js/main.js"
+  },
   "dependencies": {
     "bcrypt": "^1.0.2",
     "commander": "^2.15.1",
